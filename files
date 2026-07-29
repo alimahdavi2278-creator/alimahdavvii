@@ -1,0 +1,20 @@
+project/
+│
+├── index.html
+├── books.html
+├── hedye6.html
+├── hedye6-d1.html
+│
+├── files/
+│   └── hedye6/
+│       └── d1/
+│           ├── sample-test1.pdf
+│           ├── sample-test2.pdf
+│           ├── sample-test3.pdf
+│           └── sample-test4.pdf
+│
+├── css/
+│   └── style.css.
+<a href="files/hedye6/d1/sample-test1.pdf" target="_blank">
+📄 دانلود نمونه سؤال ۱
+</a>
